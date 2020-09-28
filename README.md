@@ -14,3 +14,5 @@ I'm really passionate about ***Software Development***, ***React***, ***Node.js*
 ![Git](https://img.shields.io/badge/-Git-555555?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-555555?style=flat&logo=github)
 ![VSCode](https://img.shields.io/badge/-VSCode-555555?style=flat&logo=vs-code)
+
+<a href="https://www.linkedin.com/in/alando-appling-30ab1371/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="alando-appling" height="28" width="28" /></a>&nbsp;&nbsp;
