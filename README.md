@@ -13,3 +13,4 @@ I'm really passionate about ***Software Development***, ***React***, ***Node.js*
 ![Heroku](https://img.shields.io/badge/-Heroku-555555?style=flat&logo=heroku)
 ![Git](https://img.shields.io/badge/-Git-555555?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-555555?style=flat&logo=github)
+![VSCode](https://img.shields.io/badge/-VSCode-555555?style=flat&logo=vs-code)
