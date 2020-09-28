@@ -1,5 +1,5 @@
 ### Hey, I'm [Alando](https://appling.dev)! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-
+I'm really passionate about ***Software Development***, ***React***, ***Node.js***, and last but not least ***GraphQL***.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
