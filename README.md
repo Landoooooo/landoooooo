@@ -9,7 +9,7 @@ I'm really passionate about ***Software Development***, ***React***, ***Node.js*
 ![CSS3](https://img.shields.io/badge/-CSS3-555555?style=flat&logo=css3)
 ![SQL](https://img.shields.io/badge/-SQL-555555?style=flat&logo=mysql)
 <br>
-![AWS](https://img.shields.io/badge/-Heroku-111111?style=flat-square&logo=aws)
+![AWS](https://img.shields.io/badge/-AWS-111111?style=flat-square&logo=aws)
 ![Heroku](https://img.shields.io/badge/-Heroku-111111?style=flat-square&logo=heroku)
 ![Git](https://img.shields.io/badge/-Git-111111?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-111111?style=flat&logo=github&logoColor=181717)
